@@ -4,6 +4,6 @@
 <br>
   제출시 파일명<br>
   ex) 7조_커피골라앱.deck<br>
-      7조_커피골라앱.fig
+      &npsp;&npsp;&npsp;7조_커피골라앱.fig
       
 
