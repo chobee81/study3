@@ -7,8 +7,8 @@
 </b>
 <h3>📢 제출시 파일명</h3>
 <b>
-ex) 7조_커피골라앱.deck<br>
-     &nbsp; &nbsp; &nbsp; 7조_커피골라앱.fig
+ex) 7조_커피마셔앱.deck<br>
+     &nbsp; &nbsp; &nbsp; 7조_커피마셔앱.fig
 </b>
       
 
