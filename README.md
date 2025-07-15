@@ -9,5 +9,5 @@
 <b>
 ex) 7조_커피마셔앱.deck<br>
      &nbsp; &nbsp; &nbsp; 7조_커피마셔앱.fig
-</b>
-<u>p.s 용량이 클 경우엔 wincbell@naver.com 으로 메일링</u>
+</b><br>
+p.s 용량이 클 경우엔 wincbell@naver.com 으로 메일링
